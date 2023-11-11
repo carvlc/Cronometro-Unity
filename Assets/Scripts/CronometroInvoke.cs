@@ -10,8 +10,6 @@ public class CronometroInvoke : MonoBehaviour
     {
         tiempoPasado = 0;
         corriendo = false;
-        // InvokeRepeating("ActualizarCronometro",0,1);
-
     }
 
     void Update()
